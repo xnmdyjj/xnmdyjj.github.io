@@ -6,10 +6,19 @@
     <description>Recent content on Miles - My App Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Mar 2019 20:24:01 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 08 Mar 2019 21:23:15 +0800</lastBuildDate>
     
 	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>服务协议</title>
+      <link>http://localhost:1313/post/tanqu-terms/</link>
+      <pubDate>Fri, 08 Mar 2019 21:23:15 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/tanqu-terms/</guid>
+      <description>请您仔细阅读以下条款，如果您对本协议的任何条款表示异议，您可以选择不进入汤不热。当您开始使用，无论是进入汤不热，还是在汤不热上发布任何内容，</description>
+    </item>
     
     <item>
       <title>Privacy Policy</title>
